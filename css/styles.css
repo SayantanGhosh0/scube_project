@@ -44,12 +44,11 @@ p {
 }
 
 .title-image {
-  width: 60%;
-  transform: rotate(2deg);
+  width: 80%;
 }
 
 #features {
-  padding: 1% 20%;
+  padding: 5% 15%;
 }
 
 .feature-box {
