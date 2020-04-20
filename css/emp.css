@@ -39,7 +39,8 @@ body {
   margin-top: 100px;
   margin-bottom: 10px;
   width: 400px;
-  background-color: rgba(0, 0, 0, 0.5) !important;
+  /*background-color: rgba(0, 0, 0, 0.5) !important;*/
+  background-image: url('https://source.unsplash.com/collection/289122/400x400');
 }
 
 .social_icon span {
