@@ -35,12 +35,12 @@ body {
 }
 
 .card {
-  height: 370px;
+  height: 400px;
   margin-top: 100px;
   margin-bottom: 10px;
-  width: 400px;
+  width: 450px;
   /*background-color: rgba(0, 0, 0, 0.5) !important;*/
-  background-image: url('https://source.unsplash.com/collection/289122/400x400');
+  background-image: url('https://source.unsplash.com/collection/289122/450x400');
 }
 
 .social_icon span {
@@ -108,4 +108,5 @@ input:focus {
 #footer {
   color: rgb(124, 133, 151);  
   text-align: center;
+  padding-top: 100px;
 }
