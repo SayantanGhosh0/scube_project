@@ -37,12 +37,14 @@
   background-size: cover;
   background-position: center;
   width: 400px;
+  border-radius: 30px;
 }
 .bg-image:hover {
   -moz-box-shadow: 0 0 60px #ccc;
   -webkit-box-shadow: 0 0 60px #ccc;
   box-shadow: 0 0 60px #ccc;
   opacity: 0.6;
+  border-radius: 50px;
 }
 .login-heading {
   font-weight: 300;
