@@ -4,7 +4,7 @@
 }
 
 body {
-  background: #007bff;
+  /*background: #007bff;*/
   background: linear-gradient(to right, #ff4c68, #ef8172);
 }
 
@@ -151,4 +151,10 @@ body {
   font-weight: bold;
   padding: 1rem;
   transition: all 0.2s;
+}
+
+footer{
+  text-align: center;
+  color: #495057;
+  padding-top: 80px;
 }

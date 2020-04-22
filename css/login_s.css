@@ -38,13 +38,16 @@
   background-position: center;
   width: 400px;
   border-radius: 30px;
+  position: relative;
 }
 .bg-image:hover {
-  -moz-box-shadow: 0 0 60px #ccc;
-  -webkit-box-shadow: 0 0 60px #ccc;
-  box-shadow: 0 0 60px #ccc;
+  -moz-box-shadow: 0 0 40px #ccc;
+  -webkit-box-shadow: 0 0 40px #ccc;
+  box-shadow: 0 0 40px #ccc;
   opacity: 0.6;
   border-radius: 50px;
+  position: relative;
+  bottom: 20px;
 }
 .login-heading {
   font-weight: 300;
@@ -145,4 +148,11 @@
 .small {
   color: #495057;
   font-size: 1rem;
+}
+
+footer{
+  text-align: center;
+  color: #495057;
+  padding-top: 80px;
+  background-color: #ff4c68;
 }
